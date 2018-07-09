@@ -22,7 +22,7 @@ Launch it
 ```
 java -jar login-example-1.0.jar
 ```
-You can acces project through http://localhost:8080/
+You can access project through http://localhost:8080/
 ## Database Schema
 ```
 CREATE TABLE `role` (
