@@ -4,7 +4,7 @@ Spring security login example
 ## Install
 Clone the project
 ```
-git clone https://github.com/R3MH4X0R/Login-example.git
+git clone https://github.com/n7-remax/Login-example.git
 ```
 In aplication.properties file setup your database information
 ```
